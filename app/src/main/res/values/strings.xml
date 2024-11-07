@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fingerprint app</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="susses">Login Activity Susses</string>
+</resources>
